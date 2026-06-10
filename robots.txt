@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+# Block admin and private paths
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /assets/icons/
+
+# Allow important files
+Allow: /manifest.json
+Allow: /sitemap.xml
+
+# Sitemaps
+Sitemap: https://upanpay.com/sitemap.xml
+
+# Crawl-delay for bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 20
+
+# Google, Bing, and major crawlers — no delay
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# Host
+Host: https://upanpay.com

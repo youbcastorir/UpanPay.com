@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://upanpay.com/</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://upanpay.com/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://upanpay.com/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://upanpay.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://upanpay.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://upanpay.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://upanpay.com/" />
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#solutions</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#finder</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#compare</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#security</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#blog</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#pricing</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://upanpay.com/#contact</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- English Blog Articles (50) -->
+  <url><loc>https://upanpay.com/blog/best-payment-gateways-ecommerce-2025</loc><lastmod>2024-12-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/reduce-cart-abandonment-checkout</loc><lastmod>2024-12-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/pci-dss-compliance-guide-merchants</loc><lastmod>2024-12-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/accepting-payments-middle-east</loc><lastmod>2024-12-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/apple-pay-vs-google-pay</loc><lastmod>2024-12-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/reduce-failed-subscription-payments</loc><lastmod>2024-11-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/stripe-vs-paypal-vs-adyen-2025</loc><lastmod>2024-11-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://upanpay.com/blog/one-click-checkout-implementation</loc><lastmod>2024-11-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/3d-secure-2-fraud-reduction</loc><lastmod>2024-11-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/southeast-asia-payment-methods</loc><lastmod>2024-11-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/accept-alipay-wechat-pay</loc><lastmod>2024-11-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/payment-optimizations-boost-revenue</loc><lastmod>2024-11-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/paddle-vs-stripe-saas</loc><lastmod>2024-11-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/mobile-checkout-optimization</loc><lastmod>2024-11-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/chargeback-prevention-guide</loc><lastmod>2024-11-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/upi-india-payment-revolution</loc><lastmod>2024-11-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/klarna-afterpay-affirm-comparison</loc><lastmod>2024-11-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/b2b-payment-optimization</loc><lastmod>2024-11-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/checkout-com-review-2025</loc><lastmod>2024-11-04</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/psychology-of-checkout-abandonment</loc><lastmod>2024-11-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/ai-powered-fraud-detection</loc><lastmod>2024-10-31</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/latin-america-payments-guide</loc><lastmod>2024-10-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/crypto-payments-ecommerce</loc><lastmod>2024-10-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://upanpay.com/blog/trust-signals-checkout-conversion</loc><lastmod>2024-10-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/chargebee-recurly-stripe-billing</loc><lastmod>2024-10-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/local-currency-pricing</loc><lastmod>2024-10-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/tokenization-vs-encryption</loc><lastmod>2024-10-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/africa-fintech-mobile-money</loc><lastmod>2024-10-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/open-banking-account-to-account</loc><lastmod>2024-10-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/payment-analytics-metrics</loc><lastmod>2024-10-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/best-payment-gateways-saudi-arabia</loc><lastmod>2024-10-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/saved-payment-methods-repeat-purchase</loc><lastmod>2024-10-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/card-testing-attacks-prevention</loc><lastmod>2024-10-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/japan-payments-jcb-paypay</loc><lastmod>2024-10-04</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://upanpay.com/blog/bnpl-2025-growth-regulation</loc><lastmod>2024-10-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/international-expansion-payments-checklist</loc><lastmod>2024-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/adyen-review-enterprise</loc><lastmod>2024-09-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/checkout-page-design-rules</loc><lastmod>2024-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/gdpr-payment-data-compliance</loc><lastmod>2024-09-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/german-payments-sepa-invoice</loc><lastmod>2024-09-22</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/future-payments-cbdc-embedded-finance</loc><lastmod>2024-09-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/freelancer-global-payments-guide</loc><lastmod>2024-09-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/braintree-vs-stripe-marketplace</loc><lastmod>2024-09-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/checkout-page-speed-conversion</loc><lastmod>2024-09-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/friendly-fraud-first-party-disputes</loc><lastmod>2024-09-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/cross-border-payment-mistakes</loc><lastmod>2024-09-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/super-apps-embedded-payments-asia</loc><lastmod>2024-09-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://upanpay.com/blog/payment-optimization-roi-calculator</loc><lastmod>2024-09-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://upanpay.com/blog/best-payment-gateways-europe-2025</loc><lastmod>2024-09-04</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/blog/checkout-optimization-checklist-50</loc><lastmod>2024-09-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- Arabic Blog Articles (30) -->
+  <url><loc>https://upanpay.com/ar/blog/افضل-بوابات-دفع-2025</loc><lastmod>2024-12-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/ar/blog/دليل-pci-dss</loc><lastmod>2024-12-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/ar/blog/مدفوعات-السعودية-مدى-stc-pay</loc><lastmod>2024-12-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/ar/blog/تقليل-التخلي-عن-السلة</loc><lastmod>2024-12-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/ar/blog/المحافظ-الرقمية-الخليج</loc><lastmod>2024-11-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- French Blog Articles (30) -->
+  <url><loc>https://upanpay.com/fr/blog/meilleures-passerelles-paiement-2025</loc><lastmod>2024-12-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/fr/blog/reduire-abandon-panier</loc><lastmod>2024-12-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/fr/blog/guide-pci-dss-marchands</loc><lastmod>2024-12-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://upanpay.com/fr/blog/vendre-europe-sepa-klarna</loc><lastmod>2024-12-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>
